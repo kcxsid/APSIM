@@ -36,6 +36,22 @@ dataset to observe the RMSE values and obtain Pedo-Transfer functions.
 - Performing extensive research on the domain of soil chemistry (mainly Bulk Density) and study of soil properties. 
 - Transforming the dataset to remove inconsistencies.
 - Performing Exploratory Data Analysis and implementing Data Mining Techniques to observe any patterns.  
+- Utilizing a Spline (Equal-area) to maintain data continuity and fill-in missing values at specified intervals. 
 - Identifying Machine learning models that can be used with the dataset. 
 - Performing n-fold Cross Validation prior to splitting the dataset between training and testing models (to maintain statistical independence). 
 - Studying the results between various models and identifying the best model to obtain relations between Bulk Density and other soil properties. 
+
+
+
+Project Workflow: 
+![Workflow](https://user-images.githubusercontent.com/31934083/182606796-aa31c493-c5d2-4590-8dd5-846a3bbf4dbe.png)
+
+Bulk Density Variation: 
+![Bulk Density Variation](https://user-images.githubusercontent.com/31934083/182607174-4adeacbb-1a9d-4985-8b9b-08c9d89250a1.jpg)
+
+Soil Horizons: 
+![soil horizons](https://user-images.githubusercontent.com/31934083/182606820-d2661de2-2dbf-4aa4-b421-a7f6c27ee6a0.jpg)
+
+Spline Plot: 
+![SplinePlot](https://user-images.githubusercontent.com/31934083/182607095-b23c34c1-c244-4ca9-9b84-f9adaf4659ea.png)
+
