@@ -30,7 +30,7 @@ correlation plot is obtained to visualise their relationship. Machine Learning M
 dataset to observe the RMSE values and obtain Pedo-Transfer functions. 
 
 
-###Procedure
+### Procedure
 - Registering credentials in order to obtain an API key to download the dataset: *https://shiny.esoil.io/SoilDataFederator/Pages/Register*
 - Downloading the datasets from the swagger API Docs: *https://esoil.io/TERNLandscapes/SoilDataFederatoR/__swagger__/#* 
 - Performing extensive research on the domain of soil chemistry (mainly Bulk Density) and study of soil properties. 
