@@ -48,6 +48,10 @@ Project Workflow:
 I adopted this process from the data-science principles to complete my project. 
 
 Bulk Density Variation: 
+
+<img width="963" alt="Screen Shot 2022-08-08 at 5 44 02 pm" src="https://user-images.githubusercontent.com/31934083/183366215-16968dee-55c0-45f8-b659-40cc843af76c.png">
+The above image shows the variation of bulk density throughout Australia. 
+
 ![Bulk Density Variation](https://user-images.githubusercontent.com/31934083/182607174-4adeacbb-1a9d-4985-8b9b-08c9d89250a1.jpg)
 The above image shows the variation of bulk density with the increase in depth of soil from the surface. 
 
