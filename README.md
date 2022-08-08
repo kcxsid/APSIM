@@ -75,3 +75,13 @@ A soil horizon is a layer parallel to the soil surface whose physical, chemical 
 - RFGS - Random Forest Regression with Optimized Hyperparameters using GridSearch CV. 
 - MART - Multiple Additive Regression Trees. 
 - MARTGS - Multiple Additive Regression Trees with optimized hyperparameters using GridSearch CV. 
+
+
+
+## Hence, the MARTGS was used to obtain the Pedo-Transfer Functions with Bulk Density. 
+
+<img width="766" alt="Screen Shot 2022-08-08 at 11 58 38 pm" src="https://user-images.githubusercontent.com/31934083/183435698-0bf490c1-679d-4631-9f4b-5aac3a39f8b0.png">
+
+Figure indicating the relation between Bulk Density and other soil parameters. 
+ρ = Bulk Density
+
