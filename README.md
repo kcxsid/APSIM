@@ -65,7 +65,12 @@ A soil horizon is a layer parallel to the soil surface whose physical, chemical 
  The above image shows the fit of the equal areas (mass-preserving) splines to the data. 
  
  
- ## Root Mean Squared Errors for each model: 
+ ## Average Root Mean Squared Errors for each model: 
  <img width="777" alt="image" src="https://user-images.githubusercontent.com/31934083/183366857-ae2ba632-c80c-4c9a-b602-4db60a7472c6.png">
 
-
+MLR - Multiple Linear Regression 
+DTR - Decision Tree Regression 
+RF - Random Forest Regression
+RFGS - Random Forest Regression with Optimized Hyperparameters using GridSearch CV. 
+MART - Multiple Additive Regression Trees. 
+MARTGS - Multiple Additive Regression Trees with optimized hyperparameters using GridSearch CV. 
