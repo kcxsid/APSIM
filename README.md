@@ -53,6 +53,7 @@ I adopted this process from the data-science principles to complete my project.
 The above image shows the variation of bulk density throughout Australia. 
 
 ![Bulk Density Variation](https://user-images.githubusercontent.com/31934083/182607174-4adeacbb-1a9d-4985-8b9b-08c9d89250a1.jpg)
+
 The above image shows the variation of bulk density with the increase in depth of soil from the surface. 
 
 ## Soil Horizons: 
@@ -68,9 +69,9 @@ A soil horizon is a layer parallel to the soil surface whose physical, chemical 
  ## Average Root Mean Squared Errors for each model: 
  <img width="777" alt="image" src="https://user-images.githubusercontent.com/31934083/183366857-ae2ba632-c80c-4c9a-b602-4db60a7472c6.png">
 
-MLR - Multiple Linear Regression 
-DTR - Decision Tree Regression 
-RF - Random Forest Regression
-RFGS - Random Forest Regression with Optimized Hyperparameters using GridSearch CV. 
-MART - Multiple Additive Regression Trees. 
-MARTGS - Multiple Additive Regression Trees with optimized hyperparameters using GridSearch CV. 
+- MLR - Multiple Linear Regression 
+- DTR - Decision Tree Regression 
+- RF - Random Forest Regression
+- RFGS - Random Forest Regression with Optimized Hyperparameters using GridSearch CV. 
+- MART - Multiple Additive Regression Trees. 
+- MARTGS - Multiple Additive Regression Trees with optimized hyperparameters using GridSearch CV. 
