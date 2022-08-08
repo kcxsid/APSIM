@@ -45,13 +45,18 @@ dataset to observe the RMSE values and obtain Pedo-Transfer functions.
 
 Project Workflow: 
 ![Workflow](https://user-images.githubusercontent.com/31934083/182606796-aa31c493-c5d2-4590-8dd5-846a3bbf4dbe.png)
+I adopted this process from the data-science principles to complete my project. 
 
 Bulk Density Variation: 
 ![Bulk Density Variation](https://user-images.githubusercontent.com/31934083/182607174-4adeacbb-1a9d-4985-8b9b-08c9d89250a1.jpg)
+The above image shows the variation of bulk density with the increase in depth of soil from the surface. 
 
 Soil Horizons: 
 ![soil horizons](https://user-images.githubusercontent.com/31934083/182606820-d2661de2-2dbf-4aa4-b421-a7f6c27ee6a0.jpg)
 
+A soil horizon is a layer parallel to the soil surface whose physical, chemical and biological characteristics differ from the layers above and beneath.
+
 Spline Plot: 
 ![SplinePlot](https://user-images.githubusercontent.com/31934083/182607095-b23c34c1-c244-4ca9-9b84-f9adaf4659ea.png)
+ The above image shows the fit of the equal areas (mass-preserving) splines to the data. 
 
